@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$trucker","classId":1,"equips":[2,0,0,0,0],"faceIndex":1,"faceName":"trucker-face","traits":[{"code":41,"dataId":1,"value":0}],"initialLevel":1,"maxLevel":99,"name":"Bill","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"noone","nickname":"","note":"","profile":""}
+]
